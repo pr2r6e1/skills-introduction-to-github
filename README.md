@@ -1,5 +1,6 @@
 # Introduction to GitHub
 
+_Get started with GitHub in less than an hour - c2 - mergecommit
 _Get started using GitHub in less than an hour._
 
 ## Welcome
